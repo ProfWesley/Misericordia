@@ -1,2 +1,2 @@
-# Misericordia
- iniciação aos estudos de desenvolvimento
+# Misericórdia
+ Iniciação aos estudos de desenvolvimento
